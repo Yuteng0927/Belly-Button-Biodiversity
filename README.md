@@ -1,4 +1,4 @@
-# Belly-Button-Biodiversity
+# Belly-Button-Challenge
 Module 14 [Homework](https://github.com/Yuteng0927/Belly-Button-Biodiversity)
 
 ## Background
